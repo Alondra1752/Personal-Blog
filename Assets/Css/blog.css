@@ -1,0 +1,89 @@
+nav {
+    background-color: rgba(210, 182, 243, 0.842);
+    border: solid white 5px;
+    display: flex;
+    justify-content: flex-end;
+
+    button {
+        background-color:rgba(210, 182, 243, 0.842) ;
+        color: yellow;
+    }
+
+    li {
+        display: inline-flex;
+        justify-content: space-between;
+        padding-left: 10px;
+        padding-right: 20px;
+
+        a {
+            color: black;
+        }
+    }
+}
+
+
+
+main {
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    height: 500px;
+    border: solid rgba(210, 182, 243, 0.842) 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    @media (max-width: 960px) {
+        display: inline-flex;
+        height: auto;
+    }
+
+}
+
+h1 {
+    background-color:white;
+    color: black;
+    text-align: center;
+}
+
+p {
+    background-color: white;
+    color: black;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid 5px rgba(210, 182, 243, 0.842);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color:white;
+    height: 500px;
+    color: black;
+
+    @media (max-width: 960px) {
+        display: inline-flex;
+        height: auto;
+    }
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color:rgba(210, 182, 243, 0.842) ;
+    color: yellow;
+    height: 50px;
+h1 {
+    color: yellow;
+}
+    a {
+        color: white;
+    }
+}
