@@ -18,7 +18,10 @@ The blog can change from a light mode to a dark mode and vice versa.
 
 
 ## Link to personal blog: 
-https://github.com/Alondra1752/Personal-Blog.git
+file:///C:/Users/alond/Desktop/challenges/Personal-Blog/index.html
+
+
+
 
 
 
