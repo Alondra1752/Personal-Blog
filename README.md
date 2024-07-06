@@ -17,8 +17,11 @@ The blog can change from a light mode to a dark mode and vice versa.
 
 
 
-## Link to personal blog: 
-file:///C:/Users/alond/Desktop/challenges/Personal-Blog/index.html
+## Link to personal blog: file:///C:/Users/alond/Desktop/challenges/Personal-Blog/index.html
+
+
+
+
 
 
 
